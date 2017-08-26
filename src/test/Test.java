@@ -25,6 +25,7 @@ public class Test {
             System.out.println(i + 1 + "." + arrayName[i].trim());
 
         }
+        System.out.println("Hello world!");
     }
 }
         
